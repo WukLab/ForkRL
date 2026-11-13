@@ -1,0 +1,4 @@
+[submodule "os4agent"]
+	path = os4agent
+	url = https://github.com/WukLab/os4agent.git
+	branch = main

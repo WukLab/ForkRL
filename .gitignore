@@ -1,0 +1,11 @@
+__pycache__/
+# per host: setup/make_containers_conf.sh
+/containers-os4agent.conf
+# local checkouts, venvs, build outputs and results (may be links to a data disk)
+/OSWorld
+.venv
+/lo_gtk3
+/build
+/build-logs
+/traces
+/pod_backup
